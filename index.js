@@ -1,3 +1,5 @@
+const aaaa=1
+
 const questions = [//object
     {question:"Which is larger animal in the world?",//object
 answer:[//object
@@ -18,7 +20,7 @@ answer:[//object
 },
 {question:"Which is smaler constinent in the world?",
 answer:[
-    {text: "Asia",corect:false},
+    {text: "SOSIHUI",corect:false},
     {text: "Australia",corect:true},
     {text: "Arctica",corect:false},
     {text: "Africa",corect:false},
